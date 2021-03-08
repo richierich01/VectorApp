@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Students].[CourseId] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       [dbo].[FK_Students_ToCourses] (Foreign Key)
+     Alter
+       [dbo].[Students] (Table)
+     Create
+       [dbo].[StudentCourses] (Table)
+
+** Supporting actions
+
+The column [dbo].[Students].[CourseId] is being dropped, data loss could occur.
+

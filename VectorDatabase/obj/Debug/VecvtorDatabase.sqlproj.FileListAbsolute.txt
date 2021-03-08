@@ -1,0 +1,6 @@
+C:\work\VectorApp\VecvtorDatabase\bin\Debug\VecvtorDatabase.dacpac
+C:\work\VectorApp\VecvtorDatabase\obj\Debug\VecvtorDatabase.sqlprojAssemblyReference.cache
+C:\work\VectorApp\VecvtorDatabase\obj\Debug\VecvtorDatabase.dll
+C:\work\VectorApp\VecvtorDatabase\obj\Debug\VecvtorDatabase.pdb
+C:\work\VectorApp\VecvtorDatabase\bin\Debug\VecvtorDatabase.dll
+C:\work\VectorApp\VecvtorDatabase\bin\Debug\VecvtorDatabase.pdb
